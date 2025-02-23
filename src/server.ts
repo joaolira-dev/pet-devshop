@@ -19,7 +19,7 @@ server.listen(process.env.PORT)
 server.use(mainRoutes)
 
 server.use((req, res) => {
-   res.send("page not found!")
+   res.render("pages/404")
 })
 
 
