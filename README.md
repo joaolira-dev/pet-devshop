@@ -14,6 +14,9 @@ Este é um backend desenvolvido em **Node.js** com **TypeScript** e **Mustache**
 - Filtro por categoria (**dog, cat, fish**).
 - Pesquisa por nome do animal.
 
+## Imagem do projeto
+![Image](https://github.com/user-attachments/assets/89e736e2-9ae0-41ce-964b-2bbf8ac5eadc)
+
 ## Instalação e Execução
 ### Pré-requisitos globais:
 Certifique-se de ter instalado os pacotes globais necessários:
