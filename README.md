@@ -27,7 +27,7 @@ npm install -g nodemon typescript ts-node
 ### Instalação do projeto
 1. Clone o repositório:
 ```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/joaolira-dev/pet-devshop
 ```
 2. Acesse a pasta do projeto:
 ```sh
